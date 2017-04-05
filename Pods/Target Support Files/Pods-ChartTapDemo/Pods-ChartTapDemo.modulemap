@@ -1,0 +1,6 @@
+framework module Pods_ChartTapDemo {
+  umbrella header "Pods-ChartTapDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
